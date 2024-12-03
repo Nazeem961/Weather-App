@@ -1,0 +1,21 @@
+﻿@page
+@model WeatherApp.Pages.IndexModel
+@inject HttpClient HttpClient
+@using WeatherApp.Models
+
+<h1>Weather App</h1>
+<form method="post">
+    <input type="text" name="City" placeholder="Enter city name" required />
+    <button type="submit">Get Weather</button>
+</form>
+
+@if (Model.WeatherData != null)
+{
+    <h2>Weather in @Model.WeatherData.City</h2>
+    <p>Temperature: @Model.WeatherData.Temperature°C</p>
+    <p>Condition: @Model.WeatherData.Condition</p>
+}
+else if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <p style="color:red;">@Model.ErrorMessage</p>
+}

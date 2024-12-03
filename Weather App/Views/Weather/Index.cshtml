@@ -1,0 +1,31 @@
+﻿@model WeatherApp.Models.WeatherViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather App</title>
+</head>
+<body>
+    <div style="text-align: center; margin-top: 50px;">
+        <h1>Weather App</h1>
+
+        <form method="post">
+            <input type="text" name="city" placeholder="Enter city name" style="padding: 10px; width: 300px;" />
+            <button type="submit" style="padding: 10px 20px;">Get Weather</button>
+        </form>
+
+        @if (!string.IsNullOrEmpty(Model?.Error))
+        {
+            <p style="color: red; margin-top: 20px;">@Model.Error</p>
+        }
+        else if (!string.IsNullOrEmpty(Model?.City))
+        {
+            <div style="margin-top: 20px;">
+                <h2>@Model.City</h2>
+                <p>Temperature: @Model.Temperature°C</p>
+                <p>Condition: @Model.Description</p>
+            </div>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.exe
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.deps.json
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.runtimeconfig.json
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.pdb
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets\msbuild.Weather App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets\msbuild.build.Weather App.props
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weather App.props
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weather App.props
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\scopedcss\bundle\Weather App.styles.css
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather .E39BF7C3.Up2Date
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\refint\Weather App.dll
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.pdb
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Weather App\Weather App\obj\Debug\net8.0\ref\Weather App.dll
